@@ -1,1 +1,1 @@
-# Attend-copy-parse-pytorch
+# Attend-copy-parse (PyTorch)
